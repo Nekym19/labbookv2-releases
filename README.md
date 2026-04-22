@@ -58,7 +58,7 @@ LabBook è stato costruito utilizzando tecnologie web moderne impacchettate per 
 - **Design**: CSS Vanilla con variabili globali, Glassmorphism design system e Icone [Lucide](https://lucide.dev/).
 
 <br>
----
+
 <div align="center">
   <small>Creato con ❤️ per i Ricercatori.</small>
 </div>
