@@ -4,7 +4,7 @@
   <p><em>Gestione Avanzata degli Esperimenti di Laboratorio</em></p>
   
   [![Build Windows & macOS](https://github.com/Nekym19/labbookv2/actions/workflows/build.yml/badge.svg)](https://github.com/Nekym19/labbookv2/actions/workflows/build.yml)
-  [![Version](https://img.shields.io/badge/version-1.7.4-blue.svg)]()
+  [![Version](https://img.shields.io/badge/version-2.1.2-blue.svg)]()
   [![React](https://img.shields.io/badge/React-19.2.0-61DAFB?logo=react&logoColor=black)]()
   [![Electron](https://img.shields.io/badge/Electron-40.8.0-47848F?logo=electron&logoColor=white)]()
   
