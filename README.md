@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="build/icon.png" alt="LabBook Logo" width="120" />
+  <img src="images/icon.png" alt="LabBook Logo" width="120" />
   <h1>LabBook</h1>
   <p><em>Gestione Avanzata degli Esperimenti di Laboratorio</em></p>
   
@@ -12,7 +12,6 @@
     <a href="#-features">Features</a> •
     <a href="#%EF%B8%8F-download-and-installation">Download</a> •
     <a href="#%EF%B8%8F-tech-stack">Stack</a> •
-    <a href="#-sviluppo-locale">Sviluppo Locale</a>
   </p>
 </div>
 
