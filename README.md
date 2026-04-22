@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/icon.png" alt="LabBook Logo" width="120" />
+  <img src="icon.png" alt="LabBook Logo" width="120" />
   <h1>LabBook</h1>
   <p><em>Gestione Avanzata degli Esperimenti di Laboratorio</em></p>
   
